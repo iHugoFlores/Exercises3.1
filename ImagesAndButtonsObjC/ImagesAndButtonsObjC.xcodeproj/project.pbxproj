@@ -14,6 +14,7 @@
 		3A4D8820242A6133005D8D47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D881F242A6133005D8D47 /* Assets.xcassets */; };
 		3A4D8823242A6133005D8D47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D8821242A6133005D8D47 /* LaunchScreen.storyboard */; };
 		3A4D8826242A6133005D8D47 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4D8825242A6133005D8D47 /* main.m */; };
+		3A4D882E242A6D7A005D8D47 /* ButtonsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4D882D242A6D7A005D8D47 /* ButtonsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		3A4D8822242A6133005D8D47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A4D8824242A6133005D8D47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A4D8825242A6133005D8D47 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3A4D882C242A6D7A005D8D47 /* ButtonsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ButtonsViewController.h; sourceTree = "<group>"; };
+		3A4D882D242A6D7A005D8D47 /* ButtonsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ButtonsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				3A4D8821242A6133005D8D47 /* LaunchScreen.storyboard */,
 				3A4D8824242A6133005D8D47 /* Info.plist */,
 				3A4D8825242A6133005D8D47 /* main.m */,
+				3A4D882C242A6D7A005D8D47 /* ButtonsViewController.h */,
+				3A4D882D242A6D7A005D8D47 /* ButtonsViewController.m */,
 			);
 			path = ImagesAndButtonsObjC;
 			sourceTree = "<group>";
@@ -148,6 +153,7 @@
 			files = (
 				3A4D881B242A6131005D8D47 /* ViewController.m in Sources */,
 				3A4D8815242A6131005D8D47 /* AppDelegate.m in Sources */,
+				3A4D882E242A6D7A005D8D47 /* ButtonsViewController.m in Sources */,
 				3A4D8826242A6133005D8D47 /* main.m in Sources */,
 				3A4D8818242A6131005D8D47 /* SceneDelegate.m in Sources */,
 			);

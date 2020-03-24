@@ -13,6 +13,7 @@
 		3A4D87D9242A3C01005D8D47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D87D7242A3C01005D8D47 /* Main.storyboard */; };
 		3A4D87DB242A3C06005D8D47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D87DA242A3C06005D8D47 /* Assets.xcassets */; };
 		3A4D87DE242A3C06005D8D47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D87DC242A3C06005D8D47 /* LaunchScreen.storyboard */; };
+		3A4D8806242A4930005D8D47 /* ButtonsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4D8805242A4930005D8D47 /* ButtonsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3A4D87DA242A3C06005D8D47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A4D87DD242A3C06005D8D47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A4D87DF242A3C06005D8D47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A4D8805242A4930005D8D47 /* ButtonsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3A4D87DA242A3C06005D8D47 /* Assets.xcassets */,
 				3A4D87DC242A3C06005D8D47 /* LaunchScreen.storyboard */,
 				3A4D87DF242A3C06005D8D47 /* Info.plist */,
+				3A4D8805242A4930005D8D47 /* ButtonsViewController.swift */,
 			);
 			path = ImagesAndButtonsSwift;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A4D8806242A4930005D8D47 /* ButtonsViewController.swift in Sources */,
 				3A4D87D6242A3C01005D8D47 /* ViewController.swift in Sources */,
 				3A4D87D2242A3C01005D8D47 /* AppDelegate.swift in Sources */,
 				3A4D87D4242A3C01005D8D47 /* SceneDelegate.swift in Sources */,
